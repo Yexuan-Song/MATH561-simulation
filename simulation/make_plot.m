@@ -1,11 +1,5 @@
 clear;clc;
-%S4=load('try_er.3.mat');
-%S1=load('try_er.1_qday3.mat');
 S1=load('plot7.mat');
-
-%S3=load('try_qday2.mat');
-%S2=load('try_nomigration.mat');
-
 
 ndays=101;
 ntry=50;
