@@ -1,5 +1,5 @@
 clear;clc;
-S1=load('plot7.mat');
+S1=load('scen1.mat');
 
 ndays=101;
 ntry=50;
